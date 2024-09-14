@@ -1,1 +1,1 @@
-# Image Search Application Using Unsplash API
+# Image Search Web Application Using Unsplash API
